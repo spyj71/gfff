@@ -3,7 +3,7 @@
 #
 
 # Name of your site
-name: Barry Clark - Getting Hired as a Web Developer
+name: 배드민턴
 
 # Short bio or description
 description: Hi, I&#39;m Barry Clark, a web developer from NYC. I write about web development and how to get hired.
@@ -42,7 +42,7 @@ mailchimp:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.barryclark.co
+url: http://spyj71.github.io
 imagesurl: http://www.barryclark.co/images
 
 # If you're hosting your site at a Project repository on GitHub pages 
